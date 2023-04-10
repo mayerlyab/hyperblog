@@ -1,6 +1,9 @@
 body
 {
+<<<<<<< HEAD
     background:#1e1f24;
+=======
+>>>>>>> lorena/footer
     color:#333;
     text-align:center;
     font-family:Arial;
@@ -28,8 +31,14 @@ body
 #cabecera #tagline
 {
     padding:0 0 0 1em;
+<<<<<<< HEAD
     font-weight:400;
     font-size:.8em
+=======
+    font-weight:normal;
+    font-size: 0.8em;
+    
+>>>>>>> lorena/footer
 }
 #container
 {
@@ -47,4 +56,11 @@ body
 {
     background: white;
     padding:1em
+}
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
